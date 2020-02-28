@@ -9,9 +9,9 @@ class Dog
     @age = age
   end
 
-  def self.all
-    @@all = all
-  end
+#  def self.all
+#    @@all = all
+#  end
 
 
 end
